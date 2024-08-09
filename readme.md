@@ -2,7 +2,7 @@
 
 We're trying to test https://the-internet.herokuapp.com/ but, it's going horribly. Goodness gracious, barely any tests are green. Please help us by doing the following:
 
-1. Pull this repo.
+1. Fork this repo.
 2. Fix as much as you can.
 3. Make any changes you feel would make this better.
 4. Make a PR.
